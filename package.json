@@ -1,0 +1,18 @@
+{
+  "name": "mean_project",
+  "version": "1.0.1",
+  "description": "a  project made for finding the github api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shankar singh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "nodemon": "^1.18.3",
+    "path": "^0.12.7"
+  }
+}
